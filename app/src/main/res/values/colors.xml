@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="wolfen_laranja">#E65F00</color>
+    <color name="wolfen_laranja_claro">#FF6B00</color>
+    <color name="wolfen_preto">#15151A</color>
+    <color name="wolfen_branco">#FFFFFF</color>
+    <color name="wolfen_texto_preto">#000000</color>
+    <color name="wolfen_texto_hint">#001326</color>
+    <color name="wolfen_vermelho">#FF0000</color>
 </resources>

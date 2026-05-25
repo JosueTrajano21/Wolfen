@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wolfen</string>
+    <string name="continuar">Continuar</string>
+    <string name="fechar">Fechar</string>
+    <string name="nome_cpf_cnpj">Nome, CPF/CNPJ</string>
+    <string name="transferir_para">Transferir para:</string>
 </resources>
