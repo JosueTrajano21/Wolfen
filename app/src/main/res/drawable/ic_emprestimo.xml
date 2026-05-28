@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="28dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/wolfen_preto"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M4,14C5.5,12.5 7.3,12 9,12H12C13.1,12 14,12.9 14,14C14,15.1 13.1,16 12,16H9" />
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/wolfen_preto"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M13.5,15.5L17.5,12.5C18.3,11.9 19.4,12 20,12.8C20.6,13.6 20.4,14.7 19.6,15.3L14.5,19C13.8,19.5 13,20 11.8,20H8C6.6,20 5.4,19.5 4,18.5" />
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/wolfen_preto"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M16,4C18.2,4 20,5.8 20,8C20,10.2 18.2,12 16,12C13.8,12 12,10.2 12,8C12,5.8 13.8,4 16,4Z" />
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/wolfen_preto"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M16,6.2V9.8" />
+
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="@color/wolfen_preto"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M14.8,7.2C15.2,6.8 16.1,6.7 16.6,7.1C17.1,7.5 17,8.2 16.3,8.4L15.7,8.6C15,8.8 14.9,9.5 15.4,9.9C15.9,10.3 16.8,10.2 17.2,9.8" />
+
+</vector>
